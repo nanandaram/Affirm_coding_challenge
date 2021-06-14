@@ -1,0 +1,6 @@
+csv_path=/user/coding_challenge/large/
+loan=loans.csv
+covanent =covenants.csv
+facility=facilities.csv
+assignments=assignments.csv
+yeilds=yeild.csv

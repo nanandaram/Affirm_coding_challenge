@@ -1,0 +1,10 @@
+Instructions. 
+Create folder structure as below
+ user/coding_challenge/Assignments.ipynb
+ user/coding_challenge/properties.txt
+ user/coding_challenge/small
+ user/coding_challenge/Large
+
+Run the application in command line
+
+ipython -c "%run Assignments.ipynb
